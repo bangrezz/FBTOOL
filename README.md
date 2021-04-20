@@ -1,6 +1,10 @@
 ## ALL IN ONE FACEBOOK HACKING TOOLKIT FOR NOOBZ
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
 #
+
+## ANNOUNCEMENT
+- The script will be upgraded to python3 because python2 had been end of life
+
 ## LOGIN METHODS
 - [x] NORMAL LOGIN
 - [x] ACCESS TOKEN LOGIN
